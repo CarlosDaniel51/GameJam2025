@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://dr4wg1kceg4u3"]
+
+[node name="Node2D" type="Node2D"]
+rotation = -0.074478626
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(375.00482, 282.68768)
+rotation = -3.0013468
+scale = Vector2(2.9123144, 4.357321)
